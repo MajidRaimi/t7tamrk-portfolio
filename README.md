@@ -17,7 +17,7 @@ To get the local development environment running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://git.is.sa/majid/t7t-amrk-portfolio
    cd t7tamrk-portfolio
    ```
 
